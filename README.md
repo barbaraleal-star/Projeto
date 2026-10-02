@@ -1,4 +1,4 @@
-# Projeto de Infraestrutura — 
+# Projeto de Infraestrutura — BVA Tech Solutions
  
 ## Resumo
 Planejamento de infraestrutura para uma empresa fictícia de tecnologia da informação localizada em um prédio de quatro andares, com 50 funcionários. A solução reúne computadores, servidores, sistemas operacionais, redes e Internet das Coisas (IoT) para garantir eficiência, segurança e continuidade dos serviços.
@@ -42,7 +42,7 @@ Planejamento de infraestrutura para uma empresa fictícia de tecnologia da infor
 - Evidências dos resultados
  
 ## Como consultar
-Comece pela pasta **01-Empresa** para conhecer a organização da *empresa* e, em seguida, siga as pastas **02 a 05** para analisar cada etapa do projeto.
+Comece pela pasta **01-Empresa** para conhecer a organização da BVA Tech Solutions e, em seguida, siga as pastas **02 a 05** para analisar cada etapa do projeto.
  
 ## Links técnicos
 - Tinkercad: [Adicionar link do projeto]
